@@ -1,0 +1,4 @@
+.vscode/
+node_modules/
+my.json
+investments.csv
